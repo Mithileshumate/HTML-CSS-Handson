@@ -1,0 +1,25 @@
+.test {
+    color: rgb(245, 9, 9);
+}
+.mithi {
+    color: brown;
+}
+p {
+    color: brown;
+}
+.umate {
+     letter-spacing: 0.4ch;
+     color: brown;
+}
+.bgbgbg {
+     background-color:yellow;
+}
+#del{
+    text-decoration: line-through;
+}
+.weight{
+    font-weight: bolder;
+}
+.italic {
+    text-decoration: underline;
+}
